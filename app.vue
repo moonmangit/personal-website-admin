@@ -3,7 +3,7 @@
     <UCard class="mt-10">
       <template #header>
         <div class="flex justify-between">
-          <h1>Welcome to Nuxt UI Starter</h1>
+          <h1>Welcome to Nuxt UI Starter Edited from outside</h1>
           <ColorScheme
             ><USelect
               v-model="$colorMode.preference"
